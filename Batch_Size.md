@@ -32,3 +32,5 @@ When the batch size is too large(see the <font color='blue'>blue </font> one blo
 <font color='grey'>As the chart illustrates, low batch_size means **more iterations** to be accurate.
 </font>
 
+
+
