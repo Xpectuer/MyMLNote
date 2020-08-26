@@ -124,3 +124,7 @@ If a weight $w =1$ by training ,set $w=0.5$ for testing
 ![esemble](images/ensemble.png)
 
 ![spec](images/dropout_spec.png)
+
+Limitation of **Dropout**
+* When activate function **is far from linear**,the ensemble may not be equivalent.
+* However, the result works in spite of the **inequivalent**
