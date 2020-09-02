@@ -128,3 +128,4 @@ If a weight $w =1$ by training ,set $w=0.5$ for testing
 Limitation of **Dropout**
 * When activate function **is far from linear**,the ensemble may not be equivalent.
 * However, the result works in spite of the **inequivalent**
+* $p(x)=\frac{1}{\sqrt{2\pi}\sigma^{2}}exp(-\frac{(x-\mu)^{2}}{2\sigma^{2}})$
